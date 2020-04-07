@@ -2,3 +2,4 @@ Git is a version control system.
 Git is free software.
 
 版本1
+选择相信一个软件也是一件很幸运的事
